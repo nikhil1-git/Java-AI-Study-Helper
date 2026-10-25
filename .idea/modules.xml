@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-AI-Study-Helper.iml" filepath="$PROJECT_DIR$/Java-AI-Study-Helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAIStudyHelper.iml" filepath="$PROJECT_DIR$/JavaAIStudyHelper.iml" />
     </modules>
   </component>
 </project>
